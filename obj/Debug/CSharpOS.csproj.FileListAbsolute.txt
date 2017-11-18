@@ -1,0 +1,14 @@
+D:\OTHER\PROGRAMMING\C#\lesson\lesson\obj\Debug\CSharpOS.csprojResolveAssemblyReference.cache
+D:\OTHER\PROGRAMMING\C#\lesson\lesson\obj\Debug\CSharpOS.csproj.CoreCompileInputs.cache
+D:\OTHER\PROGRAMMING\C#\lesson\lesson\bin\Debug\SharpOS.exe.config
+D:\OTHER\PROGRAMMING\C#\lesson\lesson\bin\Debug\SharpOS.exe
+D:\OTHER\PROGRAMMING\C#\lesson\lesson\bin\Debug\SharpOS.pdb
+D:\OTHER\PROGRAMMING\C#\lesson\lesson\obj\Debug\SharpOS.exe
+D:\OTHER\PROGRAMMING\C#\lesson\lesson\obj\Debug\SharpOS.pdb
+E:\OTHER\PROGRAMMING\C#\lesson\lesson\obj\Debug\CSharpOS.csprojResolveAssemblyReference.cache
+E:\OTHER\PROGRAMMING\C#\lesson\lesson\obj\Debug\CSharpOS.csproj.CoreCompileInputs.cache
+E:\OTHER\PROGRAMMING\C#\lesson\lesson\obj\Debug\SharpOS.exe
+E:\OTHER\PROGRAMMING\C#\lesson\lesson\obj\Debug\SharpOS.pdb
+E:\OTHER\PROGRAMMING\C#\lesson\lesson\bin\Debug\SharpOS.exe.config
+E:\OTHER\PROGRAMMING\C#\lesson\lesson\bin\Debug\SharpOS.exe
+E:\OTHER\PROGRAMMING\C#\lesson\lesson\bin\Debug\SharpOS.pdb

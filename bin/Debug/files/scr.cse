@@ -1,0 +1,11 @@
+variables:
+{
+	i(int32)
+	f(string)
+}
+executable:
+{
+	i << 4
+	f << i.int32
+	out(f)
+}
